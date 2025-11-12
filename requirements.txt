@@ -1,0 +1,9 @@
+torch==1.4.0+cpu
+torchvision==0.5.0+cpu
+numpy==1.15.4
+pandas==0.24.2
+matplotlib==3.0.3
+tqdm==4.38.0
+scikit-learn==0.20.3
+seaborn==0.8.1
+Pillow==6.1.0
